@@ -1,3 +1,3 @@
  <head>
-<meta http-equiv="refresh" content="1;URL=https://erztur.github.io/home.html">
+<meta http-equiv="refresh" content="0;URL=https://erztur.github.io/home.html">
 </head>
