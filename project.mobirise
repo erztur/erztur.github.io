@@ -44,7 +44,7 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "http://erztur.com",
+    "siteUrl": "https://erztur.github.io/home.html",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
