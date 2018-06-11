@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "ErzTur",
+    "name": "ErzTur Seyahat Acentası",
     "currentPage": "home.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 73,
@@ -46,7 +46,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "https://erztur.github.io/home.html",
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/kare-erz-logo-128x128-1.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
@@ -70,7 +70,7 @@
       }
     ],
     "snow": "",
-    "html_before": "<script src=\"https://cdn.onesignal.com/sdks/OneSignalSDK.js\" async=\"\"></script>\r\n<script>\r\n  var OneSignal = window.OneSignal || [];\r\n  OneSignal.push(function() {\r\n    OneSignal.init({\r\n      appId: \"ce00f195-178c-4002-aa1b-351ce693ac29\",\r\n    });\r\n  });\r\n</script>",
+    "html_before": "<script src=\"https://cdn.onesignal.com/sdks/OneSignalSDK.js\" async=\"\"></script>\r\n<script>\r\n  var OneSignal = window.OneSignal || [];\r\n  OneSignal.push(function() {\r\n    OneSignal.init({\r\n      appId: \"ce00f195-178c-4002-aa1b-351ce693ac29\",\r\n    });\r\n  });\r\n</script>\r\n<!-- Start of LiveChat (www.livechatinc.com) code -->\r\n<script type=\"text/javascript\">\r\nwindow.__lc = window.__lc || {};\r\nwindow.__lc.license = 9844090;\r\n(function() {\r\n  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;\r\n  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';\r\n  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);\r\n})();\r\n</script>\r\n<!-- End of LiveChat code -->",
     "headbody": "<!-- Google Tag Manager -->\r\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-KG65VT5>m.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>",
     "botbody": "<!-- AMP Analytics --><script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\r\n"
   },
@@ -739,8 +739,8 @@
           "_params": {
             "blockTitle": "",
             "HTMLCode": "<iframe src=\"https://www.youtube.com/embed/8Z4E0mhb6zI?rel=0&autoplay=1\" frameborder=\"0\" width=\"1\" scrolling=\"no\" height=\"1\" name=\"stop\" id=\"stop\"></iframe> ",
-            "extEdit": true,
-            "paddingTop": "20",
+            "extEdit": false,
+            "paddingTop": "0",
             "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -752,7 +752,7 @@
           },
           "blockTitle": "",
           "HTMLCode": "<iframe src=\"https://www.youtube.com/embed/8Z4E0mhb6zI?rel=0&autoplay=1\" frameborder=\"0\" width=\"1\" scrolling=\"no\" height=\"1\" name=\"stop\" id=\"stop\"></iframe> ",
-          "paddingTop": ".block {padding-bottom:20px; padding-top:20px;}",
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
             "Extension"
@@ -4188,11 +4188,11 @@
           "_name": "footer6",
           "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    8urc69cn7soe5evmh1n39dcuhjakow\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qUjY2iQUNH",
+          "_anchor": "footer6-20",
           "_protectedParams": [],
           "_global": true,
           "_once": true,
-          "_params": {},
-          "_anchor": "footer6-20"
+          "_params": {}
         }
       ]
     }
