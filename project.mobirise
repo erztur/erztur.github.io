@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ErzTur Seyahat Acentası",
-    "currentPage": "home.html",
+    "currentPage": "page4.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 73,
     "versionPublish": "4.7.6",
@@ -70,9 +70,9 @@
       }
     ],
     "snow": "",
-    "html_before": "<script src=\"https://cdn.onesignal.com/sdks/OneSignalSDK.js\" async=\"\"></script>\r\n<script>\r\n  var OneSignal = window.OneSignal || [];\r\n  OneSignal.push(function() {\r\n    OneSignal.init({\r\n      appId: \"ce00f195-178c-4002-aa1b-351ce693ac29\",\r\n    });\r\n  });\r\n</script>\r\n<!-- Start of LiveChat (www.livechatinc.com) code -->\r\n<script type=\"text/javascript\">\r\nwindow.__lc = window.__lc || {};\r\nwindow.__lc.license = 9844090;\r\n(function() {\r\n  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;\r\n  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';\r\n  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);\r\n})();\r\n</script>\r\n<!-- End of LiveChat code -->",
+    "html_before": "<script src=\"https://cdn.onesignal.com/sdks/OneSignalSDK.js\" async=\"\"></script>\r\n<script>\r\n  var OneSignal = window.OneSignal || [];\r\n  OneSignal.push(function() {\r\n    OneSignal.init({\r\n      appId: \"ce00f195-178c-4002-aa1b-351ce693ac29\",\r\n    });\r\n  });\r\n</script>\r\n",
     "headbody": "<!-- Google Tag Manager -->\r\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-KG65VT5>m.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>",
-    "botbody": "<!-- AMP Analytics --><script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\r\n"
+    "botbody": "<!-- Start of LiveChat (www.livechatinc.com) code -->\r\n<script type=\"text/javascript\">\r\nwindow.__lc = window.__lc || {};\r\nwindow.__lc.license = 9844090;\r\n(function() {\r\n  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;\r\n  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';\r\n  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);\r\n})();\r\n</script>\r\n<!-- End of LiveChat code -->\r\n\r\n<!-- AMP Analytics --><script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\r\n"
   },
   "pages": {
     "home.html": {
