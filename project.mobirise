@@ -46,7 +46,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "https://erztur.github.io/home.html",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/emreprofil-kare-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/icons8-summer-48-48x48.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
