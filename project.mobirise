@@ -3,7 +3,7 @@
     "name": "ErzTur Seyahat Acentası",
     "currentPage": "home.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 73,
+    "uniqCompNum": 77,
     "versionPublish": "4.7.6",
     "theme": {
       "name": "mobirise4",
@@ -70,7 +70,7 @@
       }
     ],
     "snow": "",
-    "html_before": "<a id=\"webform_side_tab\">Abone Ol</a><script type=\"text/javascript\" src=\"https://gem.godaddy.com/signups/84f89e2f4cef490596caa8400829c2c8/webform_side_tab.js\"  ></script>",
+    "html_before": "",
     "headbody": "<!-- Google Tag Manager -->\r\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-KG65VT5>m.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>",
     "botbody": "<!-- Start of LiveChat (www.livechatinc.com) code -->\r\n<script type=\"text/javascript\">\r\nwindow.__lc = window.__lc || {};\r\nwindow.__lc.license = 9844045;\r\n(function() {\r\n  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;\r\n  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';\r\n  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);\r\n})();\r\n</script>\r\n<!-- End of LiveChat code -->\r\n<a id=\"webform_side_tab\">Abone Ol</a><script type=\"text/javascript\" src=\"https://gem.godaddy.com/signups/84f89e2f4cef490596caa8400829c2c8/webform_side_tab.js\" data-name=\"signup_embed\" data-delay=\"3000\" ></script>"
   },
@@ -588,6 +588,31 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "blockTitle": "",
+            "HTMLCode": "",
+            "extEdit": true,
+            "paddingTop": "60",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "blockTitle": "",
+          "HTMLCode": "",
+          "paddingTop": ".block {padding-bottom:60px; padding-top:60px;}",
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-24"
         },
         {
           "_params": {
